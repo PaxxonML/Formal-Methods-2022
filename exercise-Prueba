@@ -1,0 +1,11 @@
+(set-option:produce-models true)
+
+(declare-const aFirst Bool)
+(declare-const aLast Bool)
+(declare-const bFirst Bool)
+(declare-const bLast Bool)
+(declare-const cFirst Bool)
+(declare-const cLast Bool)
+(declare-const dFirst Bool)
+(declare-const dLast Bool)
+
